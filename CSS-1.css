@@ -1,0 +1,39 @@
+.text{background-color: rgb(96, 105, 105);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 50px;
+    padding: 1rem 3rem;
+    text-align: center;
+    
+
+}
+
+.Logo{background-color: rgb(96, 105, 105);
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     border: none;
+     border-radius: 50px;
+     padding: 1rem 3rem;
+     text-align: center;
+}
+
+button{
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border:none;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+
+}
+
+html{
+    background-color: rgb(56, 53, 53);
+}
+.link{text-align:center;}
